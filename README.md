@@ -4,7 +4,7 @@
 >This project for practicing full-stack typescript
 
 
-Building Trello clone with React,React Native, Graphql and Typescript and Typescript
+Building Trello clone with React,React Native, Graphql and Typescript
 
 ## Status: Start up
 
