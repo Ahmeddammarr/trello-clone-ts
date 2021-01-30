@@ -1,5 +1,9 @@
 # Trello Web and App with typescript
 
+
+>This project for practicing full-stack typescript
+
+
 Building Trello clone with React,React Native, Graphql and Typescript and Typescript
 
 ## Status: Start up
