@@ -5,5 +5,7 @@ Building Trello clone with React,React Native, Graphql and Typescript and Typesc
 ## Status: Start up
 
 Front-end: Starting
+
 Back-end: On hold
+
 Mobile: On hold
